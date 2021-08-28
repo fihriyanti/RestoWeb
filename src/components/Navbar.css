@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&family=Klee+One&family=Lato&display=swap');
+
+* {
+    font-family: 'Klee One', sans-serif;
+}
+
+.nama {
+    margin-left: 10pt;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.liIcon{
+    display: flex;
+    color: #1565c0;
+    text-decoration: none;
+}
+
+.liIconText{
+    color: #1565c0;
+    text-decoration: none;
+}
+  
+.liIcon:hover{
+    color: #002f64;
+}
+  
